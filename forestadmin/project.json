@@ -1,6 +1,6 @@
 {
   "project": {
-    "name": "sd-06-project-jest",
+    "name": "tryber/sd-06-project-jest",
     "description": "Projeto de Jest Assíncrono e Mocking",
     "enabled": true,
     "deadline": "2020-09-15 14:10:00",
